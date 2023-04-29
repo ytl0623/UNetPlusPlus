@@ -1,5 +1,4 @@
 """
-UNetPlusPlus
 https://github.com/Allenem/MedicalImage/blob/main/DUNet-retinal-vessel-detection/models.py
 """
 
